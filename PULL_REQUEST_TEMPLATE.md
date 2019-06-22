@@ -2,7 +2,7 @@
 
 - [ ] Ticket is in the proper state on the board
 - [ ] Tests exist
-- [ ] Do tests fail if we change the code? (Or automate via [Stryker](https://stryker-mutator.io/)
+- [ ] Do tests fail if we change the code? (Or automate via [Stryker](https://stryker-mutator.io/))
 - [ ] Smoke tested in QA env
 - [ ] UX approved
 
