@@ -1,6 +1,7 @@
 # Checklist
 
 - [ ] Ticket is in the proper state on the board
+- [ ] Fulfills acceptance criteria in ticket
 - [ ] Tests exist
 - [ ] Do tests fail if we change the code? (Or automate via [Stryker](https://stryker-mutator.io/))
 - [ ] Smoke tested in QA env
