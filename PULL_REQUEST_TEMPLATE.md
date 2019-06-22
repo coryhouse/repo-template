@@ -12,6 +12,7 @@
 - [ ] Accessible?
 - [ ] Performant?
 - [ ] Secure?
+- [ ] Readable?
 - [ ] Reusable?
 - [ ] Discoverable?
 - [ ] Scalable?
